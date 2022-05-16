@@ -1,1 +1,1 @@
-Estudo de API para o app Devsnotes, construído em React Native.
+Estudo de API para o app Devsnotes do curso da B7Web.
